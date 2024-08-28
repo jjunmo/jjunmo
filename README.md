@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Hi, I'm BackEnd Engineer <br>
+  Hi, I'm BackEnd Develper <br>
   <br>
 </p>
 
